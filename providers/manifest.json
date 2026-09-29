@@ -1,0 +1,20 @@
+{
+  "name": "ArabP2P Repo",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "arabp2p",
+      "name": "ArabP2P",
+      "description": "Private tracker scraper for ArabP2P",
+      "version": "1.0.0",
+      "author": "your-github-username",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "arabp2p.js",
+      "enabled": true,
+      "formats": ["torrent"],
+      "contentLanguage": ["ar"],
+      "limited": false,
+      "supportsExternalPlayer": false
+    }
+  ]
+}
