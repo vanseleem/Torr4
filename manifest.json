@@ -5,13 +5,14 @@
     {
       "id": "arabp2p",
       "name": "ArabP2P",
-      "description": "Private tracker scraper for ArabP2P",
+      "description": "Movies and TV shows from ArabP2P private tracker. Requires a debrid service (TorBox, Real-Debrid, Premiumize) configured in Nuvio for playback.",
       "version": "1.0.0",
-      "author": "your-github-username",
+      "author": "vanseleem",
       "supportedTypes": ["movie", "tv"],
-      "filename": "arabp2p.js",
+      "filename": "providers/arabp2p.js",
       "enabled": true,
-      "formats": ["torrent"],
+      "formats": ["mp4", "mkv"],
+      "logo": "https://arabp2p.net/favicon.ico",
       "contentLanguage": ["ar"],
       "limited": false,
       "supportsExternalPlayer": false
