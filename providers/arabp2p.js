@@ -5,8 +5,8 @@
  */
 
 var ARABP2P_BASE = "https://arabp2p.net";
-var ARABP2P_USER = "YOUR_USERNAME_HERE";
-var ARABP2P_PASS = "YOUR_PASSWORD_HERE";
+var ARABP2P_USER = "oalhrbi316";
+var ARABP2P_PASS = "zjsnl5B2ba";
 var TMDB_KEY = "83d364331c40bfbe29858aeed82f45cc";
 
 var cheerio = require("cheerio-without-node-native");
